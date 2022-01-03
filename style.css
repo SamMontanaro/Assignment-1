@@ -1,0 +1,16 @@
+#title {
+    display: flex;
+    justify-content: center;
+}
+
+figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 1.5em;
+    padding: 0.5em;
+}
